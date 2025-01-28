@@ -3,7 +3,7 @@ print("hello world")
 
 x = 5
 print(x)
-# Salida: 5
+# Salida: 1115
 
 # Declaramos las variables a, b
 # y asignamos 2 valores
